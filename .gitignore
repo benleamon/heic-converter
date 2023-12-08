@@ -1,0 +1,9 @@
+# Ignore the imageMagick install
+ImageMagick-7.1.1-21-portable-Q16-x64/
+
+#Ignore the convert folders
+jpg-files/
+heic-files/
+
+#Ignore the file I'm using to run the scripts right now
+usage.py
